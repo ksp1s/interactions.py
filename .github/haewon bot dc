@@ -1,0 +1,6 @@
+import interactions
+
+bot = interactions.Client(MTEzODc0OTI2NzIyNjM5NDcwNg.GZrio_.JhjH6fpBTBDR9Fw4vUZyM1aZPJNijNk6RO-0po)
+
+
+bot.start()
